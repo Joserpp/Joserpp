@@ -5,8 +5,7 @@ I am a student of Computer Engineering at the University of Granada
   <a href="mailto:joseramonpp2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <br>
   <a href="www.linkedin.com/in/joserpp">
-    <img src=" 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
