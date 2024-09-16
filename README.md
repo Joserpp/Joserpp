@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm José Ramón </b></h1>
-<p>I am a student of Computer Engineering at the University of Granada</p>
+<p align="center">I am a student of Computer Engineering at the University of Granada</p>
 
 <br>
 
