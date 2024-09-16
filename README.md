@@ -3,6 +3,6 @@ I am a student of Computer Engineering at the University of Granada
 
 <p align="center">
   <a href="mailto:joseramonpp2003@gmail.com">
-    <img src=" 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
