@@ -22,4 +22,4 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,php,flutter,latex,mysql,ruby,qgis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,php,flutter,latex,mysql,ruby)](https://skillicons.dev)
